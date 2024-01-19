@@ -4,3 +4,6 @@ save/
 mplm_sim/infos/best.tsv
 mplm_sim/create_best.py
 copy_files.sh
+build/
+dist/
+mplm_sim.egg-info
