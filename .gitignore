@@ -1,0 +1,6 @@
+__pycache__
+corpora/
+save/
+mplm_sim/infos/best.tsv
+mplm_sim/create_best.py
+copy_files.sh
